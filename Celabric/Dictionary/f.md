@@ -1,0 +1,2 @@
+**-f** ==/f/== _suf._ _prepositional suffix_
+	From [[Old Celabric|OC]] **-[[Dictionary/Old Celabric/fe|fe]]** _"-direction"_; from [[Proto-Celabric|PC]] **\*[[Dictionary/Proto-Celabric/feizi|feizi]]** _"path"_

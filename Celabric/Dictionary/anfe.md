@@ -1,0 +1,2 @@
+**anfe** ==/ɑnfæ/== _prep._ on (something is on the left side of other something)
+	From **[[a]]** _"on"_ + **-[[n]]** _prepositional suffix of singular topic and singular complement_ + **-[[fe]]** _prepositional suffix of left side_

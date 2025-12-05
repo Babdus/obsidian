@@ -1,0 +1,2 @@
+**amzhøxjar** ==/ɑmʒøçɑr/== _prep._ on (some of somethings are on top of each other on top of something other)
+	From **[[a]]** _"on"_ + **-[[m]]** _prepositional suffix of plural topic and singular complement_ + **-[[zhø]]** _prepositional suffix of partial amount of topic_ + **-[[xjar]]** _prepositional suffix of zero distance_

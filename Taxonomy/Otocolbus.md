@@ -1,0 +1,2 @@
+#genus
+![[Pallas's cat]]

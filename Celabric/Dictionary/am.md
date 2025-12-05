@@ -1,0 +1,2 @@
+**am** ==/ɑm/== _prep._ on (somethings are on top of each other and all of them are on something other)
+	From **[[a]]** _"on"_ + **-[[m]]** _prepositional suffix of plural topic and singular complement_

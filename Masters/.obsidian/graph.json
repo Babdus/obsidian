@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "path:Thesis",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#year  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#type  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#author  ",
+      "color": {
+        "a": 1,
+        "rgb": 13137057
+      }
+    },
+    {
+      "query": "tag:#publisher  ",
+      "color": {
+        "a": 1,
+        "rgb": 8297120
+      }
+    },
+    {
+      "query": "tag:#resource  ",
+      "color": {
+        "a": 1,
+        "rgb": 7650941
+      }
+    },
+    {
+      "query": "tag:#series  ",
+      "color": {
+        "a": 1,
+        "rgb": 2251639
+      }
+    },
+    {
+      "query": "tag:#journal",
+      "color": {
+        "a": 1,
+        "rgb": 8406899
+      }
+    },
+    {
+      "query": "tag:#definition",
+      "color": {
+        "a": 1,
+        "rgb": 9793371
+      }
+    },
+    {
+      "query": "tag:#empty  ",
+      "color": {
+        "a": 1,
+        "rgb": 14416895
+      }
+    },
+    {
+      "query": "tag:#book  ",
+      "color": {
+        "a": 1,
+        "rgb": 7419960
+      }
+    },
+    {
+      "query": "tag:#citation  ",
+      "color": {
+        "a": 1,
+        "rgb": 7718849
+      }
+    },
+    {
+      "query": "tag:#idea  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753239
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.23966471354167,
+  "lineSizeMultiplier": 1.54591471354167,
+  "collapse-forces": false,
+  "centerStrength": 0.48779296875,
+  "repelStrength": 9.5556640625,
+  "linkStrength": 1,
+  "linkDistance": 247,
+  "scale": 0.33397076987899715,
+  "close": true
+}

@@ -1,0 +1,2 @@
+**-sh** ==/ʃ/== _suf._ _prepositional suffix_
+	From [[Old Celabric|OC]] **-[[Dictionary/Old Celabric/shung|shung]]** _"-relation"_; from [[Proto-Celabric|PC]] **\*[[Dictionary/Proto-Celabric/shongi|shongi]]** _"thought"_

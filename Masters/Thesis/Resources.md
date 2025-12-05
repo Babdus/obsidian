@@ -1,0 +1,17 @@
+1. ==[[Verbs and Times]]== 
+2. [[Understanding Morphology]]
+3. [[Syntactic Alignment and Pivot Constraints]]
+4. [[Aspect - An introduction to the study of verbal aspect and related problems]]
+5. [[Temporal ontology and temporal reference]]
+6. [[Morphological perspectives on the Georgian verb]]
+7. [[The Aspectual Meaning of Non-Aspectual Constructions]]
+8. [[Systemic polyfunctionality and morphology-syntax interdependencies]]
+9. [[Lexical Aspect]]
+10. [[Structuring Events]]
+11. [[The parameter of aspect]]
+12. [[ქართული ენის გრამატიკის საფუძვლები]]
+13. [[ზმნის გვარის ფორმათა წარმოებისა და ფუნქციის საკითხები ქართულში]]
+14. [[გრამატიკული კატეგორიებისა და მათი ურთიერთმიმართებისათვის ქართულ ზმნაში]]
+15. [[ქართული ზმნის უღვლილების სისტემა]]
+16. _[[დისერტაცია]]_
+17. [[ზმნისწინთა სემანტიკური ნიუანსები ახალ სალიტერატურო ქართულში]]

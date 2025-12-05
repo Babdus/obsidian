@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#5ad39f",
+  "enabledCssSnippets": [
+    "snippet",
+    "annotator"
+  ]
+}

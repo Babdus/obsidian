@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#family  ",
+      "color": {
+        "a": 1,
+        "rgb": 2549960
+      }
+    },
+    {
+      "query": "tag:#order  ",
+      "color": {
+        "a": 1,
+        "rgb": 16701206
+      }
+    },
+    {
+      "query": "tag:#suborder  ",
+      "color": {
+        "a": 1,
+        "rgb": 12319548
+      }
+    },
+    {
+      "query": "tag:#superfamily  ",
+      "color": {
+        "a": 1,
+        "rgb": 6808679
+      }
+    },
+    {
+      "query": "tag:#species  ",
+      "color": {
+        "a": 1,
+        "rgb": 16732814
+      }
+    },
+    {
+      "query": "tag:#genus  ",
+      "color": {
+        "a": 1,
+        "rgb": 13137407
+      }
+    },
+    {
+      "query": "tag:#subfamily  ",
+      "color": {
+        "a": 1,
+        "rgb": 8487422
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 2.24375,
+  "lineSizeMultiplier": 1.04427083333333,
+  "collapse-forces": false,
+  "centerStrength": 0.203125,
+  "repelStrength": 10.625,
+  "linkStrength": 0.90625,
+  "linkDistance": 133,
+  "scale": 0.1467240728220834,
+  "close": false
+}

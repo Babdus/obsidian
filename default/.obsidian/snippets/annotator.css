@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'celabric';
+    src: url('celabric-handwriting.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+mark {
+  background-color: #E8A13E;
+  color: #222;
+  font-size: 0.75rem;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.celabric {
+  font-family: 'celabric';
+}
