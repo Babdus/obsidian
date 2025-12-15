@@ -39,15 +39,15 @@ The last variable, against which the preverb functions will be examined, is the 
 For each of the word-form in the corpus those 4 variables would be defined in this way:
 
 ***დავუჩქარო***
-	preverb: **და**
-	blueprint: **ამთქნარებს (უ prefix)**
-	class: **inchoative**
-	form:
-		screeve: **II subjunctive**
-		subject:
-			person: **1**
-			number: **singular**
-		object: *N/A*
+- preverb: **და**
+- blueprint: **ამთქნარებს (უ prefix)**
+- class: **inchoative**
+- form:
+	- screeve: **II subjunctive**
+	- subject:
+		- person: **1**
+		- number: **singular**
+	- object: *N/A*
 ## Verb form generation
 ### Methodology
 In order to have all the possible forms of the verbs, I write a program using Python programming language. This program 
